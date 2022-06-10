@@ -43,7 +43,7 @@ h2 {
 
 /* ---- Elements ---- */
 
-img, iframe {
+img {
   width: 35%;
   border-radius: 30px;
   border: 1px solid #000000;
